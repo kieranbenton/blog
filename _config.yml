@@ -9,9 +9,14 @@ baseurl:          /
 author:
   name:           'Kieran Benton'
   url:            https://twitter.com/kieranbenton
-paginate:         5
 github:
   repo:           https://github.com/kieranbenton
 plugins:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-analytics
+paginate:         5
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-342697-6         # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
