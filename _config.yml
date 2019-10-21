@@ -3,7 +3,7 @@ highlighter:      rouge
 permalink:        pretty
 title:            Kieran Benton
 tagline:          'Kieran Benton''s Engineering Blog'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Kieran Benton is a Dad, former Chief Architect in e-Commerce, former consultant full-stack engineer, now founder. <a href="https://twitter.com/kieranbenton" target="_blank">@kieranbenton</a>.'
 url:              http://www.kieranbenton.com
 baseurl:          /
 author:
@@ -11,7 +11,7 @@ author:
   url:            https://twitter.com/kieranbenton
 paginate:         5
 github:
-  repo:           https://github.com/kieranbenton/kieranbenton.github.io
+  repo:           https://github.com/kieranbenton
 plugins:
   - jekyll-gist
   - jekyll-paginate
