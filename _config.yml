@@ -4,7 +4,7 @@ permalink:        pretty
 title:            Kieran Benton
 tagline:          'Kieran Benton''s Engineering Blog'
 url:              https://www.kieranbenton.com
-baseurl:          /
+baseurl:          ""
 author:
   name:           'Kieran Benton'
   url:            https://twitter.com/kieranbenton
