@@ -3,14 +3,11 @@ highlighter:      rouge
 permalink:        pretty
 title:            Kieran Benton
 tagline:          'Kieran Benton''s Engineering Blog'
-description:      'Kieran Benton is a Dad, former Chief Architect in e-Commerce, former consultant full-stack engineer, now founder. <a href="https://twitter.com/kieranbenton" target="_blank">@kieranbenton</a>.'
 url:              http://www.kieranbenton.com
 baseurl:          /
 author:
   name:           'Kieran Benton'
   url:            https://twitter.com/kieranbenton
-github:
-  repo:           https://github.com/kieranbenton
 plugins:
   - jekyll-gist
   - jekyll-paginate
