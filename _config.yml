@@ -3,7 +3,7 @@ highlighter:      rouge
 permalink:        pretty
 title:            Kieran Benton
 tagline:          'Kieran Benton''s Engineering Blog'
-url:              http://www.kieranbenton.com
+url:              https://www.kieranbenton.com
 baseurl:          /
 author:
   name:           'Kieran Benton'
